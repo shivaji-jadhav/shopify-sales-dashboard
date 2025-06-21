@@ -1,38 +1,55 @@
-# shopify-sales-dashboard
-SHOPIFY | SALES &amp; CUSTOMER FUNNEL REPORT
 
+# 🛍️ Shopify Sales & Customer Funnel Analysis
 
-
- # 🛒 Shopify Sales Dashboard
-
-This project analyzes Shopify sales data using Power BI. It includes a professional PDF dashboard that highlights key business metrics such as revenue, order count, customer types, and payment gateways.
-
-📄 File: `Shopify Analysis Dashboard.pdf`
+This project presents a detailed Power BI analysis of Shopify e-commerce sales and customer behavior. The dashboard is designed for business decision-makers to identify performance trends, evaluate customer lifetime value, and track sales by region, product type, and payment method.
 
 ---
 
-## 📌 Project Summary
+## 📊 Project Highlights
 
-- **Tool Used**: Power BI
-- **Dataset**: Shopify e-commerce sales
-- **Report Type**: Visual Dashboard (PDF)
-- **Analysis Focus**:
-  - Net Sales, Avg Order Value, Customer Type (New/Repeat)
-  - Lifetime Value (LTV), Purchase Frequency
-  - Top Cities, Payment Methods
-  - Product Category Revenue
-
----
-
-## 📊 Key Insights
-
-- 🧾 **Net Sales**: $4.18 Million  
-- 🛍 **Total Orders**: 7534  
-- 🔁 **Repeat Customer Rate**: 46%  
-- 💳 **Top Gateways**: Shopify, PayPal, Amazon  
-- 🥇 **Top Products**: Running Shoes, Tennis Shoes, Walking Shoes
+| Metric                  | Value         |
+|------------------------|---------------|
+| 💰 Net Sales            | $4,180,874     |
+| 📦 Total Orders         | 7,534          |
+| 👥 Total Customers       | 4,431          |
+| 🔁 Repeat Customers (%) | 46%            |
+| 💳 Gateways Used        | Shopify, PayPal, Amazon Pay, Gift Card |
 
 ---
 
-## 📂 File Structure
+## 📁 Repository Contents
+
+- `Shopify Analysis Dashboard.pdf` – Final Power BI report (PDF)
+- `README.md` – Project documentation
+
+---
+
+## 🔍 Key Features
+
+- 📈 Sales trend analysis over time
+- 🌍 Geographic sales by U.S. provinces and cities
+- 🔁 Repeat vs. single customer segmentation
+- 💳 Payment gateway performance breakdown
+- 👟 Product category performance comparison
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Power BI Desktop** – Visualization & reporting  
+- **Excel** – Data preprocessing  
+---
+
+## 📎 About This Project
+
+This dashboard was developed to demonstrate data storytelling and business intelligence skills. It summarizes a simulated Shopify dataset to support performance review and strategic planning in an e-commerce environment.
+
+---
+
+## 🔗 Connect with Me
+
+**Shivaji Jadhav**  
+📧 shivajijadhav9255@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
+
 
